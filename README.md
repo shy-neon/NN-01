@@ -8,7 +8,7 @@ IR bridge based on attiny-85
 </br>
 
 ## Description 
-Imagine having different IR devices (e.g. a TV and an Home theater hoked to it) each of them controlled by its own remote. This device allows you to control both of them with the same remote.
+Imagine having different IR devices (e.g. a TV and an Home theatre hoked to it) each of them controlled by its own remote. This device allows you to control both of them with the same remote.
 It can be field programmed (according to the flow diagram below) to emit a specific IR commad whenever a source IR command is recived, this can be useful to automate some scenarios (like turnig on the home theatre whenever the tv is turned on or controlling the volume from the TV remote).
 This is expecially usefull when a generic universal remote cannot be used (modern smart TVs come with remotes which have oddly specific buttons for menus and so on...)
 <img style="width: 500px;" src="./manual.png">
