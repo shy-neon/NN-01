@@ -2,7 +2,9 @@
 IR bridge based on attiny-85
 </br>
 </br>
+<img style="width: 500px;" src="./IMG_3968.jpg">
 <img style="width: 500px;" src="./3Drender.png">
+
 </br>
 
 ## Description 
